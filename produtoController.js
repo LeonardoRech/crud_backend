@@ -1,7 +1,7 @@
 'use strict';
 
-const firebase = require('../db');
-const Produto = require('../models/produto');
+const firebase = require('./db');
+const Produto = require('./produto');
 const firestore = firebase.firestore();
 
 const addProduto = async (req, res, next) => {
