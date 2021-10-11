@@ -3,7 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const config = require('./config');
-const produtoRoutes = require('./routes/produto-routes')
+const produtoRoutes = require('./produto-routes')
 
 const app = express();
 
