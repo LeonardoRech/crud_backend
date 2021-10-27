@@ -1,4 +1,4 @@
-O desafio proposto pelo time Alest foi a criação de im CRUD.
+Criação CRUD
 
 Primeiramente foi feito todo o backend do projeto usando node e firebase:
 1°: Foi feita toda a conexão com o banco de dados nos documentos config.js e db.js. No mesmo plano desses documentos foi criado um documento ".env" para passar os dados do banco de maneira segura. Os dados de tal documentos estão dispostos abaixo.
